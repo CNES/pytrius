@@ -1,0 +1,10 @@
+.project
+.settings
+.classpath
+/target/
+/bin/
+.metadata/
+/.checkstyle
+__pycache__/
+*.pyc
+patriusdataset-1.4.6.jar
